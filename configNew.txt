@@ -1,0 +1,6 @@
+# aspmine login
+host=your_host
+user=your_user
+passwd=your_password
+db=your_database
+port=port_to_use

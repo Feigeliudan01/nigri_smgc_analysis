@@ -20,7 +20,8 @@ ggplot2
 
 # Query example:
 
+Before running the query, add credentials in configNew.txt.
+
 ```bash
 python3 MAIN.py -o nigri_set.txt -bibase publication_nigri_biblast -biFinal publication_smurf_bidir_hits_nigri -t smBasicTree.nwk -l run.log -od nigri_test
 ```
-
